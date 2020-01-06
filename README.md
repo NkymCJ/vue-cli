@@ -28,6 +28,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/)
 npm install netlify-cli -g
 netlify login
 netlify init / netlify link
-npm run netlify
+npm run netlify:preview
+npm run netlify:prod
 ```
 
